@@ -66,7 +66,7 @@ ENCRYPTION_KEY=
 1. Clone the repository:
 ```bash
 git clone https://github.com/ADAO-Summon/ranked-choice-vote.git
-cd intersect-workshops
+cd ranked-choice-vote
 ```
 
 2. Install dependencies:
