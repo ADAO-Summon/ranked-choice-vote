@@ -65,7 +65,7 @@ ENCRYPTION_KEY=
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/intersect-workshops.git
+git clone https://github.com/ADAO-Summon/ranked-choice-vote.git
 cd intersect-workshops
 ```
 
